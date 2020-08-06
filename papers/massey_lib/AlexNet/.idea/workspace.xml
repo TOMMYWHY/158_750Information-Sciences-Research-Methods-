@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d44180d3-7aad-4cfa-8302-2cac1185d12c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AlexNet.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlexNet.pth" beforeDir="false" afterPath="$PROJECT_DIR$/AlexNet.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VggNet/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../VggNet/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VggNet/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../VggNet/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vgg.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="f1cd10f3-bcaf-4c4c-9353-2980896f1c8a" />
+  <component name="ProjectId" id="1f4cB85U3Va2HuStOt6rkwafTh1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="AlexNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlexNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alexNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/python37/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlexNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/python37/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.model" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.predict" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d44180d3-7aad-4cfa-8302-2cac1185d12c" name="Default Changelist" comment="" />
+      <created>1595480666391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595480666391</updated>
+      <workItem from="1595480668874" duration="10196000" />
+      <workItem from="1595496602796" duration="2546000" />
+      <workItem from="1595499712943" duration="3347000" />
+      <workItem from="1595642904715" duration="3464000" />
+      <workItem from="1595678047953" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="988" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595498212136">
+      <screen x="0" y="23" width="3792" height="1057" />
+    </state>
+    <state x="988" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1595498212136" />
+    <state x="1421" y="92" key="#train" timestamp="1595499875587">
+      <screen x="0" y="23" width="3792" height="1057" />
+    </state>
+    <state x="1421" y="92" key="#train/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1595499875587" />
+    <state width="1388" height="271" key="GridCell.Tab.0.bottom" timestamp="1595671005427">
+      <screen x="0" y="23" width="3788" height="1057" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.3788.1057@0.23.3788.1057" timestamp="1595671005427" />
+    <state width="1388" height="263" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.3790.1057@0.23.3790.1057" timestamp="1595643750788" />
+    <state width="1151" height="263" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1595501016427" />
+    <state width="1388" height="271" key="GridCell.Tab.0.center" timestamp="1595671005425">
+      <screen x="0" y="23" width="3788" height="1057" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.3788.1057@0.23.3788.1057" timestamp="1595671005425" />
+    <state width="1388" height="263" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.3790.1057@0.23.3790.1057" timestamp="1595643750787" />
+    <state width="1151" height="263" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1595501016426" />
+    <state width="1388" height="271" key="GridCell.Tab.0.left" timestamp="1595671005423">
+      <screen x="0" y="23" width="3788" height="1057" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.3788.1057@0.23.3788.1057" timestamp="1595671005423" />
+    <state width="1388" height="263" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.3790.1057@0.23.3790.1057" timestamp="1595643750787" />
+    <state width="1151" height="263" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1595501016425" />
+    <state width="1388" height="271" key="GridCell.Tab.0.right" timestamp="1595671005426">
+      <screen x="0" y="23" width="3788" height="1057" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.3788.1057@0.23.3788.1057" timestamp="1595671005426" />
+    <state width="1388" height="263" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.3790.1057@0.23.3790.1057" timestamp="1595643750788" />
+    <state width="1151" height="263" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1595501016426" />
+    <state width="1388" height="271" key="GridCell.Tab.1.bottom" timestamp="1595671005433">
+      <screen x="0" y="23" width="3788" height="1057" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.1.bottom/-1440.203.1440.877/0.23.3788.1057@0.23.3788.1057" timestamp="1595671005433" />
+    <state width="1388" height="271" key="GridCell.Tab.1.bottom/-1440.203.1440.877/0.23.3790.1057@0.23.3790.1057" timestamp="1595643671114" />
+    <state width="1388" height="271" key="GridCell.Tab.1.center" timestamp="1595671005429">
+      <screen x="0" y="23" width="3788" height="1057" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.1.center/-1440.203.1440.877/0.23.3788.1057@0.23.3788.1057" timestamp="1595671005429" />
+    <state width="1388" height="271" key="GridCell.Tab.1.center/-1440.203.1440.877/0.23.3790.1057@0.23.3790.1057" timestamp="1595643671113" />
+    <state width="1388" height="271" key="GridCell.Tab.1.left" timestamp="1595671005428">
+      <screen x="0" y="23" width="3788" height="1057" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.1.left/-1440.203.1440.877/0.23.3788.1057@0.23.3788.1057" timestamp="1595671005428" />
+    <state width="1388" height="271" key="GridCell.Tab.1.left/-1440.203.1440.877/0.23.3790.1057@0.23.3790.1057" timestamp="1595643671113" />
+    <state width="1388" height="271" key="GridCell.Tab.1.right" timestamp="1595671005430">
+      <screen x="0" y="23" width="3788" height="1057" />
+    </state>
+    <state width="1388" height="271" key="GridCell.Tab.1.right/-1440.203.1440.877/0.23.3788.1057@0.23.3788.1057" timestamp="1595671005430" />
+    <state width="1388" height="271" key="GridCell.Tab.1.right/-1440.203.1440.877/0.23.3790.1057@0.23.3790.1057" timestamp="1595643671113" />
+    <state x="1191" y="80" key="SettingsEditor" timestamp="1595499781130">
+      <screen x="0" y="23" width="3792" height="1057" />
+    </state>
+    <state x="1191" y="80" key="SettingsEditor/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1595499781130" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlexNet$predict.coverage" NAME="predict Coverage Results" MODIFIED="1595546011945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlexNet$train.coverage" NAME="train Coverage Results" MODIFIED="1595643750774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alexNet$predict.coverage" NAME="predict Coverage Results" MODIFIED="1595494776400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alexNet$train.coverage" NAME="train Coverage Results" MODIFIED="1595498807484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
