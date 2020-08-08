@@ -1,0 +1,11 @@
+*.mp4
+/miniproject/
+./miniproject/
+*.tar.gz
+*.zip
+*.csv
+*.ppm
+*.jpg
+*.jpeg
+*.png
+*.pth

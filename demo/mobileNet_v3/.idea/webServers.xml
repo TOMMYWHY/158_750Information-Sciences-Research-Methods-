@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="589c29c5-ba02-4c0f-b742-30063086ebd2" name="jiawenhe-109-vpn" url="http://211.103.197.147">
+        <fileTransfer host="211.103.197.147" port="109" rootFolder="/home" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="109" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
