@@ -186,8 +186,9 @@ def make_norm(c, norm='bn', group=1, eps=1e-5):
     else:
         return nn.BatchNorm2d(c, eps=eps)
 
+# update learning rate
 def get_lr(epoch, solver):
     base_lr = solver['BASE_LR']
-    new_lr = base_lr * solver['GAMMA'] ** bisect_right(solver['STEPS'], epoch)
+    new_lr = base_lr * solver['GAMMA'] ** bisect_right(solver['STEPS'], epoch) # 0.1 * POW(0.1，n)
     print('Change learning rate from {} to {} at epoch {}'.format(base_lr, new_lr, epoch))
     return new_lr

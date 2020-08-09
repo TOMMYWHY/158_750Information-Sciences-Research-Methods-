@@ -15,7 +15,7 @@ import sys
 train_batch_size = 128
 train_loader_threads = 4
 BASE_SIZE = 72
-CROP_SIZE = 64
+CROP_SIZE = 64 #
 PIXEL_MEANS = (0.485, 0.456, 0.406)
 PIXEL_STDS = (0.229, 0.224, 0.225)
 means = torch.tensor([PIXEL_MEANS[2] * 255, PIXEL_MEANS[1] * 255, PIXEL_MEANS[0] * 255]).cpu().view(1, 3, 1, 1)
@@ -45,9 +45,9 @@ def train(model, criterion, trainloader, optimizer):
     for epoch in range(solver['MAX_EPOCHS']):
         current_learning_rate = solver['BASE_LR']
         if epoch + 1 in solver['STEPS']:
-            current_learning_rate = get_lr(epoch+1, solver)
+            current_learning_rate = get_lr(epoch+1, solver) #8-12epoch update learning rate
             for ind, param_group in enumerate(optimizer.param_groups):
-                param_group['lr'] = current_learning_rate
+                param_group['lr'] = current_learning_rate #更新的学习率赋值给优化器
         print('learning rate for current epoch: {}'.format(optimizer.param_groups[0]['lr']))
 
 
@@ -58,12 +58,12 @@ def train(model, criterion, trainloader, optimizer):
 
             inputs, targets = data
 
-            inputs = inputs.float().sub_(means).div_(stds)
+            inputs = inputs.float().sub_(means).div_(stds) # batch - normalize #todo
 
             optimizer.zero_grad()
 
             outputs = model(inputs)
-            loss = criterion(outputs, targets)
+            loss = criterion(outputs, targets) # 计算损失
             loss.backward()
             optimizer.step()
 
@@ -106,7 +106,7 @@ def main(argv):
         num_workers=train_loader_threads,
         pin_memory=True,
         sampler=None,
-        collate_fn=fast_collate
+        # collate_fn=fast_collate
     )
 
     model = Generalized_CNN()
